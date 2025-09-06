@@ -11,7 +11,6 @@ function App() {
         </a>
         <h1>About Me</h1>
       </header>
-
       {/* About Section */}
       <section className="about">
         <h2>Name: Nicklee Almaida</h2>
